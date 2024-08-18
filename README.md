@@ -16,6 +16,11 @@ Run Kafka server using
 
 Run this project.
 
+### Output
+
+![Screenshot 2024-08-18 234500](https://github.com/user-attachments/assets/937a293c-1e9e-40ba-a862-1d095989944c)
+
+
 Note:
 
 ### if any issues while using kafka, try updating this property in server.properties file.  
